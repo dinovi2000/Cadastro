@@ -1,1 +1,11 @@
-
+* {
+    margin: 1000;
+    padding: 20;
+    box-sizing: border-box;
+    font-family: 'segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  body {
+    background-color: aliceblue;
+    color: black;
+    line-height: 1.6;
+  }
